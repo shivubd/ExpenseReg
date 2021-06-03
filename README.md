@@ -23,13 +23,15 @@ the schema diagram of the database is given below.
 *Dashboard window*
 
 ![Capture_dashboard](https://user-images.githubusercontent.com/62126060/120692543-87bf6180-c4c5-11eb-8d1f-f45a45f895ba.JPG)
--------------------------------
 
+-------------------------------
 ## Schema diagram of Database
 ![SD](https://user-images.githubusercontent.com/62126060/120697292-29957d00-c4cb-11eb-8d30-29649d7821b5.JPG)
 
+-------------------------------
 ## Entity-Relationship diagram
 ![ERD](https://user-images.githubusercontent.com/62126060/120697350-3b772000-c4cb-11eb-9348-b1b4c9a2a660.JPG)
+
 
 
 
